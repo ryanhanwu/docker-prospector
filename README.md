@@ -1,2 +1,3 @@
 # docker-prospector
-A docker container used for running Python code analysis
+
+A docker container for running Python code analysis
